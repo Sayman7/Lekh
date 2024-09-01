@@ -20,6 +20,7 @@ set(SOURCES
     src/main.cpp
     # src/file1.cpp
     # src/file2.cpp
+    # src/index.html
     # ... (and so on)
 )
 
