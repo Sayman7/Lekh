@@ -2,7 +2,7 @@
 This is how files will be structured for this project.
 
 ```
-/MyProject
+/Lekh
 ├── CMakeLists.txt       # Top-level CMake configuration file
 ├── src                  # Source files
 │   ├── main.cpp         # Main application file

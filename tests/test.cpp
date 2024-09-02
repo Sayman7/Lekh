@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Test Example run successfully" << std::endl;
+  std::cout << "Example test" << std::endl;
   return 0;
 }
