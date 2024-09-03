@@ -3,20 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Patrika- Lekh Compiler</title>
+    <title>Text Wrap Example</title>
 </head>
 <body>
-    <header>
-        Under Development
-        <nav>
-            Will have the options soon
-        </nav>
-    </header>
-    <main>
-        To be coded
-    </main>
-    <footer>
-        Soon to be updated
-    </footer>
+    <h1>Patrika</h1>
+    <form id="textForm">
+        <label for="textInput"></label><br>
+        <textarea id="textInput" name="textInput" rows="10" cols="30" required></textarea><br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <h2>Code you wrote:</h2>
+    <pre id="source_code"></pre>
+
+    <script src="lexer.js"></script>
 </body>
 </html>
