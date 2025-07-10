@@ -3,3 +3,5 @@ This project is currently on development and will soonly going to be the most ap
 
 ### NOTE
 - To run the project read ```./docs/run.md```
+
+Is managed by team vasiliades.
